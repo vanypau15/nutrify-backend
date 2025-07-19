@@ -26,7 +26,10 @@ const app = express();
 
 // Middleware
 app.use(express.json());
-app.use(cors());
+app.use(cors({
+  origin: 'https://nutrify-backend-gia4.onrender.com',
+  credentials: true
+}));
 
 const JWT_SECRET = process.env.JWT_SECRET;
 
