@@ -1,0 +1,92 @@
+[
+    {
+      "name": "Apple",
+      "calories": 52,
+      "protein": 0.3,
+      "fat": 0.2,
+      "fiber": 2.4,
+      "carbohydrates": 14,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Pink_lady_and_cross_section.jpg"
+    },
+    {
+      "name": "Banana",
+      "calories": 89,
+      "protein": 1.1,
+      "fat": 0.3,
+      "fiber": 2.6,
+      "carbohydrates": 23,
+      "imageUrl": "https://www.lovefoodhatewaste.com/sites/default/files/styles/16_9_two_column/public/2022-07/Bananas.jpg.webp?itok=bqo03oZ1"
+    },
+    {
+      "name": "Chicken Breast",
+      "calories": 165,
+      "protein": 31,
+      "fat": 3.6,
+      "fiber": 0,
+      "carbohydrates": 0,
+      "imageUrl":"https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2023/01/Air-Fryer-Chicken-Breast-main.jpg"
+    },
+    {
+      "name": "Broccoli",
+      "calories": 55,
+      "protein": 3.7,
+      "fat": 0.6,
+      "fiber": 2.4,
+      "carbohydrates": 11,
+      "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Broccoli_and_cross_section_edit.jpg"
+    },
+    {
+      "name": "Almonds",
+      "calories": 579,
+      "protein": 21,
+      "fat": 49,
+      "fiber": 12.5,
+      "carbohydrates": 22,
+      "imageUrl":"https://nuts.com/images/ct/images.cdn.us-central1.gcp.commercetools.com/fe6ef66f-361c-4adb-b11f-d4aa8f13c79c/3004_RawAlmondsNoShe-Ke41eZKN-large.jpg"
+    },
+    {
+      "name": "Salmon",
+      "calories": 208,
+      "protein": 20,
+      "fat": 13,
+      "fiber": 0,
+      "carbohydrates": 0,
+      "imageUrl":"https://static01.nyt.com/images/2024/08/01/multimedia/as-grilled-salmon-bvfk/as-grilled-salmon-bvfk-jumbo.jpg"
+    },
+    {
+      "name": "Oats",
+      "calories": 389,
+      "protein": 16.9,
+      "fat": 6.9,
+      "fiber": 10.6,
+      "carbohydrates": 66.3,
+      "imageUrl":"https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/09/23/rolled-oats-linen-wood-surface-white-bowl.jpg.rend.hgtvcom.1280.960.85.suffix/1632429307666.webp"
+    },
+    {
+      "name": "Egg",
+      "calories": 155,
+      "protein": 13,
+      "fat": 11,
+      "fiber": 0,
+      "carbohydrates": 1.1,
+      "imageUrl":"https://bittmanproject.com/wp-content/uploads/GettyImages-1309107688-hbeggs-scaled.jpg"
+    },
+    {
+      "name": "Spinach",
+      "calories": 23,
+      "protein": 2.9,
+      "fat": 0.4,
+      "fiber": 2.2,
+      "carbohydrates": 3.6,
+      "imageUrl":"https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/05/spinach-1296x728-header.jpg?w=1155&h=1528"
+    },
+    {
+      "name": "Sweet Potato",
+      "calories": 86,
+      "protein": 1.6,
+      "fat": 0.1,
+      "fiber": 3,
+      "carbohydrates": 20,
+      "imageUrl":"https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FSeries%2F2023-09-how-to-bake-a-sweet-potato%2FHow-To-Cook-Sweet-Potato_220"
+    }
+  ]
